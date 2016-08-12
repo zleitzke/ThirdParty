@@ -8,7 +8,9 @@
 
 * [Mac OSX](OSX.md)
 
-* [Linux](Linux.md)
+* [Ubuntu](Ubuntu.md)
+
+*  Linux (Coming soon)
 
 ---
 
